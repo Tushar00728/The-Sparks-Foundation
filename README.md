@@ -1,6 +1,6 @@
 # The-Sparks-Foundation 
 
-Repository containing tasks involved in the Data Science and Business Analytics internship for the [The Sparks Foundation](https://www.linkedin.com/company/the-sparks-foundation/)
+Repository containing tasks involved in the Data Science and Business Analytics internship for the [The Sparks Foundation](https://www.linkedin.com/company/the-sparks-foundation/) .
 
 ## #Task1: Prediction using Supervised ML 
 1. Predict the percentage of marks of an student based on the number of study hours.               [
