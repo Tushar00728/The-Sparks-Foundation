@@ -8,7 +8,7 @@ Repository containing tasks involved in the Data Science and Business Analytics 
 3. What will be predicted score if a student studies for 9.25 hrs/ day?
 
 
-## Task2: Prediction using Supervised ML
+## Task2: Prediction using Unsupervised ML
 1. From the given ‘Iris’ dataset, predict the optimum number of clusters
 and represent it visually.
 2. Dataset : https://bit.ly/3kXTdox
